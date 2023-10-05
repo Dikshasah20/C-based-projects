@@ -1,2 +1,2 @@
 # Dikshatask1CS
-Project for codesoft project
+Code for codesoft project
